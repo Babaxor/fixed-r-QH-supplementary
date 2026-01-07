@@ -1,5 +1,3 @@
-# fixed-r-QH-supplementary
-Supplementary GAP scripts and data for the paper on fixed-r quasi-Hamiltonian semigroups.
 Computational Verification: Fixed-5k QH Semigroups
 
 This repository contains the GAP scripts and output logs used to verify the results in Section 6 of the manuscript "[Insert Paper Title Here]".
