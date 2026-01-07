@@ -1,0 +1,6 @@
+Verification Log for S_1
+Parameter k: 1
+Parameter r (5^k): 5
+Order of Semigroup: 12
+Fixed-r Property: true
+Pairs Checked: 144

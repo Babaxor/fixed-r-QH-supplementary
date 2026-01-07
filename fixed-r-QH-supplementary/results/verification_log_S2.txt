@@ -1,0 +1,6 @@
+Verification Log for S_2
+Parameter k: 2
+Parameter r (5^k): 25
+Order of Semigroup: 32
+Fixed-r Property: true
+Pairs Checked: 1024
